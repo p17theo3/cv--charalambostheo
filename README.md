@@ -4,6 +4,8 @@ CV - CHARALAMBOS THEODOULOU
  	   Location     - Dimitriou Lipierti 12 , Livadia, 7060 Larnaca (Cyprus)
        Phone number - 0035799193756
 	   Email        - xaralambostheo@outlook.com
+	   
+	   
 
 EDUCATION AND TRAINING
 
@@ -17,6 +19,9 @@ Throughout my overall educational period of six years, I was awarded for my exce
 Department of Informatics Ionian University, Corfu (Greece)
 
 Second year student in the department of informatics at Ionian University of Greece
+
+
+
 
 
 
@@ -42,6 +47,9 @@ Russian	        A1				  A1				  A1
   
 ▪ Excellent communication skills gained through my communication with tourists dancing in the hotels
 and through my experience as a Rebuke Lounge employee , also by traveling to Israel and England 
+
+
+
 
 
 
