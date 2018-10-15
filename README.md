@@ -27,7 +27,9 @@ MILITARY SERVICE
 
  291tp ( Larnaca)
 
-	Listening	Reading	Spoken interaction	Spoken production	
+
+
+ENGLISH , LISTENING , 
 English	 C2	  C2  	C2	  C2	  C2
 
 
