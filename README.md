@@ -29,7 +29,7 @@ Russian	 A1	  A1	  A1  	A1    A1
 
 
 
-Communication skills	
+	
   
 ▪ Excellent communication skills gained through my communication with tourists dancing in the hotels
 and through my experience as a Rebuke Lounge employee , also by traveling to Israel and England 
