@@ -9,9 +9,11 @@ Education and training
 
 09/2013–06/2016
   - Saint Lazarus Technical school, Larnaca (Cyprus)
+  
 Throughout my overall educational period of six years, I was awarded for my excellent marks.. I was an active member of the dance, and football team. My enhanced courses was Mathematics, Physics, Computers and English. 
 
-09/2017 – present	, 
+09/2017 – present
+
 Department of Informatics Ionian University, Corfu (Greece)
 
 Second year student in the department of informatics at Ionian University of Greece
