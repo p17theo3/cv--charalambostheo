@@ -2,7 +2,7 @@ CV - CHARALAMBOS THEODOULOU
 
 
  	   Location     - Dimitriou Lipierti 12 , Livadia, 7060 Larnaca (Cyprus)
-     Phone number - 0035796407791
+           Phone number - 0035796407791
 	   Email        - xaralambostheo@outlook.com
 
 Education and training
