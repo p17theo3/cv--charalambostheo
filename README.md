@@ -5,7 +5,7 @@ CV - CHARALAMBOS THEODOULOU
        Phone number - 0035799193756
 	   Email        - xaralambostheo@outlook.com
 
-Education and training
+EDUCATION AND TRAINING
 
 09/2013–06/2016
   - Saint Lazarus Technical school, Larnaca (Cyprus)
