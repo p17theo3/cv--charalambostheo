@@ -29,10 +29,12 @@ MILITARY SERVICE
 
 
 
-English	 C2	  C2  	C2	  C2	  C2
+	Listening	Reading	Spoken interaction	Spoken production	
+
+English	 C2	  C2  	C2	  C2	 
 
 
-Russian	 A1	  A1	  A1  	A1    A1
+Russian	 A1	  A1	  A1  	A1   
 
 
 
