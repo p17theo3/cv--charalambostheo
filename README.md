@@ -56,7 +56,7 @@ ADDITIONAL INFORMATION
 -   Excellent organization and cooperation skills. Team-spirit and self-discipline , Excellent sense of team spirit and presentation skills.
  . During the communication by dancing and traveling I have come in contact with people of   different cultures and backgrounds and I have developed a mature understanding of other people’s views.
 -	  Attentive on keeping schedules and meeting deadlines.
--	  Ecxelent  computer knowledge( excel , word, power point) as I am in the department of informatics.
+-	  Ecxelent  computer knowledge( excel , word, power point).
 
 
 
