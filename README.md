@@ -44,7 +44,7 @@ ADDITIONAL INFORMATION
 -	 I have a driving license. 
 
 
-                  Organisational / managerial skills
+             
 	
 -	  Excellent time-management skills
 -   Excellent organization and cooperation skills. Team-spirit and self-discipline , Excellent sense of team spirit and presentation skills.
