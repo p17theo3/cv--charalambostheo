@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+CV - CHARALAMBOS THEODOULOU
 
-You can use the [editor on GitHub](https://github.com/p17theo3/omonoia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 	   Location     - Dimitriou Lipierti 12 , Livadia, 7060 Larnaca (Cyprus)
+     Phone number - 0035796407791
+	   Email        - xaralambostheo@outlook.com
 
-### Markdown
+Education and training
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+09/2013–06/2016
+  - Saint Lazarus Technical school, Larnaca (Cyprus)
+Throughout my overall educational period of six years, I was awarded for my excellent marks.. I was an active member of the dance, and football team. My enhanced courses was Mathematics, Physics, Computers and English. 
 
-```markdown
-Syntax highlighted code block
+09/2017 – present	, 
+Department of Informatics Ionian University, Corfu (Greece)
 
-# Header 1
-## Header 2
-### Header 3
+Second year student in the department of informatics at Ionian University of Greece
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+MILITARY SERVICE
+14 months of service
+ 291tp ( Larnaca)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	Listening	Reading	Spoken interaction	Spoken production	
+English	 C2	  C2  	C2	  C2	  C2
+Russian	 A1	  A1	  A1  	A1    A1
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p17theo3/omonoia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Communication skills	
+  
+▪ Excellent communication skills gained through my communication with tourists dancing in the hotels
+and through my experience as a Rebuke Lounge employee , also by traveling to Israel and England 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+ADDITIONAL INFORMATION	 
+
+-	I aspire to expand my skills and experiences in other fields, work in a different environment, with different tasks and demands and also develop new skills. I believe myself to be an ambitious person, who is eager to learn new things and has the ability to adapt in multiple situations and requirements.  
+-	 I’ve been dancing professionally for 9 years now.
+-	 I am a blood donor 
+-	 I have a driving license. 
+
+
+                  Organisational / managerial skills
+	
+-	  Excellent time-management skills
+-   Excellent organization and cooperation skills. Team-spirit and self-discipline , Excellent sense of team spirit and presentation skills.
+ . During the communication by dancing and traveling I have come in contact with people of   different cultures and backgrounds and I have developed a mature understanding of other people’s views.
+-	  Attentive on keeping schedules and meeting deadlines.
+-	  Ecxelent  computer knowledge( excel , word, power point) as I am in the department of informatics.
+
+
+
