@@ -3,7 +3,7 @@
 
  	   Location     - Dimitriou Lipierti 12 , Livadia, 7060 Larnaca (Cyprus)
        Phone number - 0035799193756
-	   Email        - xaralambostheo@outlook.com
+	   Email        - xambos98@gmail.com
 	   
 	   
 
