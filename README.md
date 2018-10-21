@@ -7,7 +7,7 @@
 	   
 	   
 
-EDUCATION AND TRAINING
+# EDUCATION AND TRAINING
 
 09/2013–06/2016
   - Saint Lazarus Technical school, Larnaca (Cyprus)
@@ -26,34 +26,25 @@ Second year student in the department of informatics at Ionian University of Gre
 
 
 
-MILITARY SERVICE
+# MILITARY SERVICE
 
 14 months of service
  291tp ( Larnaca)
 
-
-
-
-	Listening	Reading	Spoken interaction	Spoken production	
-
-English	        C2	 			 C2  				C2		 
-
-
-Russian	        A1				  A1				  A1  	 
+  	 
 
 
 
 	
-  
-▪ Excellent communication skills gained through my communication with tourists dancing in the hotels
-and through my experience as a Rebuke Lounge employee , also by traveling to Israel and England 
+ 
 
 
 
 
 
 
-ADDITIONAL INFORMATION	 
+
+# ADDITIONAL INFORMATION	 
 
 -	I aspire to expand my skills and experiences in other fields, work in a different environment, with different tasks and demands and also develop new skills. I believe myself to be an ambitious person, who is eager to learn new things and has the ability to adapt in multiple situations and requirements.  
 -	 I’ve been dancing professionally for 9 years now.
@@ -61,8 +52,7 @@ ADDITIONAL INFORMATION
 -	 I have a driving license. 
 
 
-             
-	
+      
 -	  Excellent time-management skills
 -   Excellent organization and cooperation skills. Team-spirit and self-discipline , Excellent sense of team spirit and presentation skills.
  . During the communication by dancing and traveling I have come in contact with people of   different cultures and backgrounds and I have developed a mature understanding of other people’s views.
