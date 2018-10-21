@@ -16,7 +16,7 @@ Throughout my overall educational period of six years, I was awarded for my exce
 
 09/2017 – present
 
-Department of Informatics Ionian University, Corfu (Greece)
+  - Department of Informatics Ionian University, Corfu (Greece)
 
 Second year student in the department of informatics at Ionian University of Greece
 
