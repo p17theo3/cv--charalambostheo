@@ -5,7 +5,6 @@
        Phone number - 0035799193756
 	   Email        - xambos98@gmail.com
 	   
-	   
 
 # EDUCATION AND TRAINING
 
